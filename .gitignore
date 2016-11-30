@@ -3,3 +3,6 @@
 ################################################################################
 
 *.opendb
+/AMQP/Sender/Debug
+/AMQP/Receiver/Debug
+/AMQP/.vs/AMQP/v14
